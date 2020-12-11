@@ -1,6 +1,5 @@
   li {
-    padding: .2rem;
-    margin: 1rem 23rem;    
+    padding: .2rem;   
     background: transparent;
   }
   img{
@@ -18,8 +17,7 @@
 
   h2,
   h1 {
-    padding: .2rem;
-    margin: 1rem 22rem;    
+    padding: .2rem;   
     background-color: snow;
     border-radius: 4rem;    
   }
@@ -42,8 +40,6 @@
   
   .create-form {
     padding: 2rem;
-    margin-left: 20rem;
-    margin-right: 20rem;
     background: rgba(253, 253, 140, 0.959);
     border-radius: 70rem;
     font-size: x-large;
@@ -62,4 +58,9 @@
     font-size: x-large;
     color: rgb(197, 117, 197);
     font-family: 'Indie Flower', cursive;
+  }
+  
+  .container {
+    margin-left: 20rem;
+    margin-right: 20rem;
   }
