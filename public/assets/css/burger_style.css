@@ -1,0 +1,52 @@
+  li {
+    padding: .2rem;
+    margin: 1rem 23rem;    
+    background: transparent;
+  }
+  img{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 4rem;
+  }
+  .label {
+    font-weight: bold;
+  }
+
+  ul{
+    padding: 1rem;
+  }
+
+  button {
+    background: white;
+    border-width: .5rem;
+    border-color: rgb(187, 247, 187);
+    padding: 1rem 2rem;
+    text-align: center;
+    display: inline-block;
+    font-size: 1rem;
+    border-radius: 2rem;
+
+  } 
+  
+  .create-form {
+    padding: 2rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    background: rgba(253, 253, 140, 0.959);
+    border-radius: 70rem;
+    font-size: x-large;
+    color: black
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  body {
+    background-color: rgb(255, 206, 214);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    color: rgb(197, 117, 197);
+  }
