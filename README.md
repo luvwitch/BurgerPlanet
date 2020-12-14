@@ -38,17 +38,18 @@ Once the server is active, the browser can be opened to the address ' localhost:
 
 The home page of the application looks like this:
 
-![home](https://github.com/luvwitch/BurgerPlanet/blob/main/public/assets/home.png?raw=true)
+![home](https://github.com/luvwitch/BurgerPlanet/blob/main/public/assets/img/home.png?raw=true)
 
-Clicking on the "Get Started" button will take you to the notes page.
+Selecting any of the created burgers moves them to the "sold out" section.
 
-![notestart](https://github.com/luvwitch/BurgerPlanet/blob/main/public/assets/notestart.png?raw=true)
+![sold](https://github.com/luvwitch/BurgerPlanet/blob/main/public/assets/img/sold.png?raw=true)
 
-You can then create a new note or a series of notes which can be viewed and deleted!
+You can create your own burger and add it to either list by selecting "order up" (puts the burger in the sold out section) or "still thinking" (puts the burger in the current menu section).
 
-![notesave](https://github.com/luvwitch/BurgerPlanet/blob/main/public/assets/notesave.png?raw=true)
-![noteview](https://github.com/luvwitch/BurgerPlanet/blob/main/public/assets/noteview.png?raw=true)
-![notedelete](https://github.com/luvwitch/BurgerPlanet/blob/main/public/assets/notedelete.png?raw=true)
+![create](https://github.com/luvwitch/BurgerPlanet/blob/main/public/assets/img/create.png?raw=true)
+
+![ordered](https://github.com/luvwitch/BurgerPlanet/blob/main/public/assets/img/burgerordered.png?raw=true)
+
 
 This application is live at: 
 
